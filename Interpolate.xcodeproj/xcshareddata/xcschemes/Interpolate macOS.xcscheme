@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3448A0E11CBA2A1A00E818C2"
-               BuildableName = "Interpolate.framework"
-               BlueprintName = "Interpolate"
+               BlueprintIdentifier = "8AF1178B22D301E700D6C9F8"
+               BuildableName = "InterpolateOSX.framework"
+               BlueprintName = "InterpolateOSX"
                ReferencedContainer = "container:Interpolate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3448A0EB1CBA2A1B00E818C2"
-               BuildableName = "InterpolateTests.xctest"
-               BlueprintName = "InterpolateTests"
+               BlueprintIdentifier = "8AF1179322D301E700D6C9F8"
+               BuildableName = "Interpolate macOSTests.xctest"
+               BlueprintName = "Interpolate macOSTests"
                ReferencedContainer = "container:Interpolate.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3448A0E11CBA2A1A00E818C2"
-            BuildableName = "Interpolate.framework"
-            BlueprintName = "Interpolate"
+            BlueprintIdentifier = "8AF1178B22D301E700D6C9F8"
+            BuildableName = "InterpolateOSX.framework"
+            BlueprintName = "InterpolateOSX"
             ReferencedContainer = "container:Interpolate.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,9 +64,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3448A0E11CBA2A1A00E818C2"
-            BuildableName = "Interpolate.framework"
-            BlueprintName = "Interpolate"
+            BlueprintIdentifier = "8AF1178B22D301E700D6C9F8"
+            BuildableName = "InterpolateOSX.framework"
+            BlueprintName = "InterpolateOSX"
             ReferencedContainer = "container:Interpolate.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,9 +82,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3448A0E11CBA2A1A00E818C2"
-            BuildableName = "Interpolate.framework"
-            BlueprintName = "Interpolate"
+            BlueprintIdentifier = "8AF1178B22D301E700D6C9F8"
+            BuildableName = "InterpolateOSX.framework"
+            BlueprintName = "InterpolateOSX"
             ReferencedContainer = "container:Interpolate.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
